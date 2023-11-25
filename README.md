@@ -1,6 +1,6 @@
 # Project Overview:
 
-This repository houses the codebase for a Basic Text Editor web project developed as part of an internship under the Company Code Clause. The project focuses on creating a simple yet functional text editor using HTML, CSS, and JavaScript.
+This repository houses the codebase for a Basic Text Editor web project developed as part of an internship under CodeClause. The project focuses on creating a simple yet functional text editor using HTML, CSS, and JavaScript.
 
 # Key Features:
 
