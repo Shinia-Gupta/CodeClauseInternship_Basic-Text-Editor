@@ -31,7 +31,7 @@ Leveraging Git for version control, tracking changes, and collaborating on the c
 
 ![Screenshot 2023-11-25 154414](https://github.com/Shinia-Gupta/CodeClauseInternship_Basic-Text-Editor/assets/113818197/8adc50d0-d844-4569-9185-506015effef9)
 
-###Project Live
+### Project Live
 [Click Here](https://shinia-gupta.github.io/CodeClauseInternship_Basic-Text-Editor/)
 
 
